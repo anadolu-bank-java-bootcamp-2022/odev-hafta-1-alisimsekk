@@ -9,7 +9,7 @@ Problem birbirinden bağımsız nesneler olarak ifade edilmelidir. İlgi alanı 
 Nesneye yönelik analiz soyutlama, miras alma ilkelerinin üzerine kuruludur. Bu ilkelerden soyutlama karmaşık bir problemi, sistemi, fikri ya da durumu daha iyi anlayabilmek belirli yönleri ile ele almayı ifade eder. Analistin bakış açısı, sistem nesnelerinin en belirgin olan benzer nitelikleri üzerine odaklanır. Sistem böylece basit bir şekilde ifade edilebilmektedir.  
 
 ## Yapısal Analiz Ve Yapısal Tasarım  
-
+ 
 Kullanılan çeşitli yapısal analiz ve tasarım yöntemleri arasında en popüler olanlardan birisi İşlevsel ayrıştırma (Functional decomposition)’dır.   
 
 İşlevsel ayrıştırma, sistemin yerine getirmesi gereken işlevler, alt işlevler ve bu işlevlerin arasındaki ara yüzlerle ilgilenir. Problemi, daha kolay ele alınabilecek alt problemlere bölme ve bu alt problemlerin çözümlerinden esas problemi çözmeye yarayan tekniktir. İşlevsel ayrıştırma yukarıdan aşağıya geliştirme yöntemidir.   

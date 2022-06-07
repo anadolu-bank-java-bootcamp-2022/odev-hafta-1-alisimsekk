@@ -21,3 +21,4 @@ Bir üst sınıfta bulunan özellikler, kendisinden kalıtım alan alt sınıfla
 Örneğin kuş isimli ana sınıfımız olsun ve bu sınıfta uç(), yürü() isimli 2 metot tanımlı olsun. Kuş ana sınıfından kalıtım alan güvercin alt sınıfını oluşturduğumuzda güvercin hem uçabilir hem de yürüyebilir hayvan olduğu için ana sınıfın özelliklerini kullanacaktır. Bu şekilde olan örnekler LSP’ye uygundur.  
 
 Yine kuş isimli ana sınıftan kalıtım alan tavuk isimli alt sınıf olsun. Tavuk alt sınıfında yürü() metodu kullanıcaktır. Fakat tavuğun uçamadığı düşünüldüğünde uç() metodu alt sınıfta kullanılmayacaktır. İşte bu durum LSP’ye uygun değildir.
+ 
